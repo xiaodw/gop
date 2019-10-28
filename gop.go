@@ -5,9 +5,9 @@ import (
 )
 
 func Hello() {
-	return "hello"
+	fmt.Println("hello")
 }
 
 func Gohub() {
-	return "go & github"
+	Println("go & github")
 }
